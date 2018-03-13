@@ -36,7 +36,8 @@ Se você for aprovado nesta etapa, será convidado para uma entrevista final com
 
 
 ### Instruções
-      1. Faça o fork do desafio e crie uma branch 'desafio_clientes_nome_candidato';
-      2. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio; 
-      3. Após concluir seu trabalho faça um push; 
-      4. Solicite o Merge request para o repositório original e que a força esteja com você.
+      1. Faça o fork do desafio;
+      2. Crie um repositório privado no bitbucket para o projeto e adicione como colaborador o usuário conductordev;
+      3. Desenvolva. Você terá 2 (dois) dias a partir da data do envio do desafio; 
+      4. Após concluir seu trabalho faça um push; 
+      5. Envie um e-mail ao RH Conductor notificando a finalização do desafio para validação.
